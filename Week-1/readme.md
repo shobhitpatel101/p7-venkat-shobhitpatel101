@@ -28,7 +28,7 @@
 ### h. Layout and Painting
 > ![1 ejR8TwuRBqTRDKmAJeltig](https://user-images.githubusercontent.com/20619491/201480767-5260a2be-91f8-480a-bd52-b10119a20284.png)
 
-
-Screen Shot
+# Exercise 1.2
+### Screen Shot
 
 ![screenshot](https://user-images.githubusercontent.com/20619491/201479923-9c61acd1-b688-413a-9e2a-14027d00eecb.png)
