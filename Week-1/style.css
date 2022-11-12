@@ -1,0 +1,74 @@
+body{
+    margin: 0px;
+    height: 100%;
+}
+
+.side_menu{
+    width : 2%;
+    height: 100%;
+    position : absolute;
+    left: 0;
+    padding-top: 40px;
+    padding-left: 3px;
+    background-color: rgb(237, 233, 233);
+}
+
+.header{
+    height: 30%;
+    width: 98%;
+    float: right;
+    background-color: rgb(70, 72, 70);
+}
+
+.main_body{
+    height: 60%;
+    width: 98%;
+    float: right;
+    margin: 10px 0px;
+    text-align: left;
+}
+
+.fotter{
+    height: 15%;
+    width: 98%;
+    position : absolute;
+    bottom: 0;
+    right: 0;
+    background-color: rgb(0, 136, 255);
+
+}
+
+i{
+    padding-bottom: 35px;
+    padding-left: 5px;
+    width : 32px;
+    height : 32px;
+}
+
+button{
+    background-color: white;
+    color: blue;
+    border: 1px solid;
+}
+
+.fotter-song-menu{
+    position: absolute;
+    right: 0;
+    padding-right: 50px;
+    color:white; 
+    margin-top: 40px;
+    margin-left: 160px;
+}
+
+table{
+    padding: 0 20px;
+}
+
+th{
+    padding-top: 25px;
+    padding-left: 20px;
+}
+
+#song_menu{
+    padding-right: 50px;
+}
