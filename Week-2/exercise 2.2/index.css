@@ -1,0 +1,73 @@
+.main{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    width: 400px;
+    height: 200px;
+}
+
+section{
+    margin-top: 90px;
+    width: 100%;
+    text-align: center;
+}
+
+.box-red{
+    background-color: red;
+    position: absolute;
+    top:0px;
+    left:100px;
+    width: 100px;
+    height: 100px;
+    transition: transform 2s, left 2s;
+}
+
+.box-yellow{
+    background-color: yellow;
+    position: absolute;
+    top:0px;
+    left: 200px;
+    width: 100px;
+    height: 100px;
+    transition: transform 2s, left 2s;
+}
+
+.box-blue{
+    background-color: blue;
+    position: absolute;
+    top:100px;
+    left: 100px;
+    width: 100px;
+    height: 100px;
+    transition: transform 2s, left 2s;
+}
+
+.box-green{
+    background-color: green;
+    position: absolute;
+    top:100px;
+    left: 200px;
+    width: 100px;
+    height: 100px;
+    transition: transform 2s, left 2s;
+}
+
+.main:hover > .box-red{
+    transform: rotate(90deg);
+    left:0px;
+}
+
+.main:hover > .box-yellow{
+    transform: rotate(-90deg);
+    left:300px;
+}
+
+.main:hover > .box-blue{
+    transform: rotate(-90deg);
+    left:0px;
+}
+
+.main:hover > .box-green{
+    transform: rotate(90deg);
+    left:300px;
+}
