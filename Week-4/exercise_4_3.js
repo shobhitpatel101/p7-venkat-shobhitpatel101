@@ -35,3 +35,4 @@ console.log("The fibonacci series")
 for(const el of obj){
     console.log(el)
 }
+
