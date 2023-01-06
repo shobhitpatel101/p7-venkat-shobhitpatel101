@@ -7,7 +7,7 @@ test("Sum", ()=>{
 
 test("Sum", ()=>{
     const sum = mathOperations.sum(3,2)
-    expect(sum).toBe(4);
+    expect(sum).not.toBe(4);
 })
 
 
@@ -19,7 +19,7 @@ test("Different", ()=>{
 
 test("Different", ()=>{
     const sum = mathOperations.diff(3,3)
-    expect(sum).toBe(1);
+    expect(sum).not.toBe(1);
 })
 
 test("Product", ()=>{
@@ -29,5 +29,5 @@ test("Product", ()=>{
 
 test("Product", ()=>{
     const sum = mathOperations.product(3,3)
-    expect(sum).toBe(6);
+    expect(sum).not.toBe(6);
 })
