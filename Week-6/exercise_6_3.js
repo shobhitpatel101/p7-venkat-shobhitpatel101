@@ -32,3 +32,6 @@ console.log(sortArray(arr))
 
 arr = [1, 0, 0, 1, 1]
 console.log(sortArray(arr))
+
+//Time  complexity = O(n)
+//Space complexity = O(1)
