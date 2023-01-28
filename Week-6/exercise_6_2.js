@@ -54,3 +54,7 @@ matrix = [[ 1, 2, 3, 4],
           [ 9,10,11,12],
           [13,14,15,16]]
 console.log(spiralMatrix(matrix))
+
+
+//Time  complexity = O(n^2)
+//Space complexity = O(n^2)
