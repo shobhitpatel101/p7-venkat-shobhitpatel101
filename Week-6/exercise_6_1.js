@@ -23,3 +23,6 @@ console.log(maxSubarraySumValue)
 
 maxSubarraySumValue = maxSubarraySum([-2, 1, -3, 4, -1, 2, 1, -5, 4])
 console.log(maxSubarraySumValue)
+
+//Time  complexity = O(n)
+//Space complexity = O(1)

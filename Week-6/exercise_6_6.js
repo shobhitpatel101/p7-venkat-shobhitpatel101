@@ -29,3 +29,6 @@ var threeSumClosest = function(nums, target) {
 console.log(threeSumClosest([4,0,5,-5,3,3,0,-4,-5], -2))
 console.log(threeSumClosest([-1,2,1,-4], 1))
 console.log(threeSumClosest([0,0,0], 0))
+
+//Time complexity = O(n^2)
+//Space complexity = O(1)

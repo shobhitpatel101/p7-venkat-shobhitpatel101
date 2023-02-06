@@ -27,3 +27,6 @@ function maximumProfit(arr){
 
 let arr = [7,1,5,3,6,4]
 console.log(maximumProfit(arr))
+
+//Time complexity = O(n)
+//Space complexity = O(1)

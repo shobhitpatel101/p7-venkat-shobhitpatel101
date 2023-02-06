@@ -16,3 +16,6 @@ console.log(findDifference(A,B))
 A = [-10, 20] 
 B = 30
 console.log(findDifference(A,B))
+
+//Time complexity = O(n)
+//Space complexity = O(n)
